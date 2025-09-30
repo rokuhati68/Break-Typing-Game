@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0031130b595c14c956b0356c0effb7, type: 3}
+  m_Name: okaasann
+  m_EditorClassIdentifier: 
+  characterImage: {fileID: -3604133987966028504, guid: 52811c3b51ecb2e48a1d80d5b0e01c19, type: 3}
+  hiragana: "\u304A\u304B\u3042\u3055\u3093"
+  romaji: okaasann
+  isGet: 0
+  description: 

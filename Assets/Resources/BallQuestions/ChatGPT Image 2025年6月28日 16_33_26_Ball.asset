@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1f9b41061feb164f8b16818310ce408, type: 3}
+  m_Name: "ChatGPT Image 2025\u5E746\u670828\u65E5 16_33_26_Ball"
+  m_EditorClassIdentifier: 
+  ballName: "ChatGPT Image 2025\u5E746\u670828\u65E5 16_33_26"
+  ballImage: {fileID: -4706113166881163850, guid: bd718c81ba97d9041899210624a8c48b, type: 3}
+  description: 
